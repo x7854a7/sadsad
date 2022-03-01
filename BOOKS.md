@@ -1,0 +1,26 @@
+# Books
+
+> Grab a book and relax. Some of the best books in the industry.
+
+- [Android Hacker's Handbook by Joshua J. Drake et al. (2014)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-111860864X.html)
+- [Advanced Penetration Testing: Hacking the World's Most Secure Networks by Wil Allsopp (2017)](https://www.goodreads.com/book/show/32027337-advanced-penetration-testing)
+- [Black Hat Python: Python Programming for Hackers and Pentesters by Justin Seitz (2014)](https://www.goodreads.com/book/show/22299369-black-hat-python)
+- [Breaking into Information Security: Learning the Ropes 101 - Andrew Gill](https://leanpub.com/ltr101-breaking-into-infosec)
+- [Car Hacker's Handbook by Craig Smith (2016)](https://www.nostarch.com/carhacking)
+- [Gray Hat Python: Python Programming for Hackers and Reverse Engineers by Justin Seitz (2009)](https://www.goodreads.com/book/show/5044768-gray-hat-python)
+- [Hacking: The Art of Exploitation by Jon Erickson (2004)](https://www.goodreads.com/book/show/61619.Hacking)
+- [iOS Hacker's Handbook by Charlie Miller et al. (2012)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118204123.html)
+- [Metasploit: The Penetration Tester's Guide by David Kennedy (2011)](https://www.nostarch.com/metasploit)
+- [OWASP Testing Guide: Stable](https://owasp.org/www-project-web-security-testing-guide/stable/)
+- [Penetration Testing: A Hands-On Introduction to Hacking by Georgia Weidman (2014)](https://nostarch.com/pentesting)
+- [The Browser Hacker's Handbook by Wade Alcorn et al. (2014)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118662091.html)
+- [The Database Hacker's Handbook, David Litchfield et al. (2005)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0764578014.html)
+- [The Hacker Playbook: Practical Guide To Penetration Testing by Peter Kim (2014)](https://www.goodreads.com/book/show/21846565-the-hacker-playbook)
+- [The Hacker Playbook 2: Practical Guide to Penetration Testing by Peter Kim (2015)](https://www.goodreads.com/book/show/25791488-the-hacker-playbook-2)
+- [The Hacker Playbook 3: Practical Guide to Penetration Testing (Red Team Edition) by Peter Kim (2018)](https://www.goodreads.com/book/show/40028366-the-hacker-playbook-3)
+- [The Mac Hacker's Handbook by Charlie Miller & Dino Dai Zovi (2009)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470395362.html)
+- [The Mobile Application Hacker's Handbook by Dominic Chell et al. (2015)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118958500.html)
+- [The Shellcoders Handbook by Chris Anley et al. (2007)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047008023X.html)
+- [The Web Application Hackers Handbook by D. Stuttard, M. Pinto (2011)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118026470.html)
+- [Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers by T.J. O'Connor (2012)](https://www.goodreads.com/book/show/16192263-violent-python)
+- [Web Hacking 101](https://leanpub.com/web-hacking-101)
